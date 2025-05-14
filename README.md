@@ -11,9 +11,12 @@ A conversational chatbot that leverages natural language processing and data ana
 
 ## 📁 Project Structure
 
-├── app.py # Main entry point (UI logic)
-├── chatbot_logic.py # Chatbot decision logic
-├── gemini_handler.py # Gemini API handler for natural language interaction
-├── utils.py # Helper functions for data processing
-├── requirements.txt # Python dependencies
-└── sample_dataset.csv # Example dataset for testing
+```
+├── app.py                 # Main entry point (UI logic)
+├── chatbot_logic.py       # Chatbot decision logic
+├── gemini_handler.py      # Gemini API handler for natural language interaction
+├── utils.py               # Helper functions for data processing
+├── requirements.txt       # Python dependencies
+└── sample_dataset.csv     # Example dataset for testing
+```
+
